@@ -1,2 +1,4 @@
 for i in range(1,101):
-    print(i)
+    #print(i)
+    if i%3 == 0:
+        print("Fizz")
